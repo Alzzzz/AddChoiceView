@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="AddChoiceView">
         <attr name="min_choice_count" format="integer" />
+        <attr name="max_choice_count" format="integer" />
     </declare-styleable>
 </resources>
